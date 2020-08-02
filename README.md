@@ -1,1 +1,1 @@
-# math260
+For HW5, I completed all parts of Q1(Solving ODEs) and Q2(PageRank). I did not complete the optional Q3(Bees). HW51Q1 contains Q1 and HW5Q2 contains Q2. pagerank.py, small_graph.txt and california.txt are also included for use with HW5Q2. Requested error plot from Q1(e) is also included.
